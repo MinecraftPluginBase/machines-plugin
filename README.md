@@ -5,7 +5,7 @@ Create machines that automatically generate items for you.
 * Java 8+
 * [Spigot 1.8.8](https://cdn.getbukkit.org/spigot/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar)
 
-### Default Configuration
+### Default Configuration by [Tuca](https://github.com/htyns123/)
 ```yml
 machines:
   basic:
