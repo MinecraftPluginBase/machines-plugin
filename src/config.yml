@@ -1,0 +1,12 @@
+machines:
+  basic:
+    price: 250000
+    name: "&aBasic Machine &2(Tier I)"
+    machine-id: 45
+    drop-id: 336
+    drop-amount: 64
+    description:
+      - ""
+      - "&2This machine is good."
+      - "§aTier I"
+      - ""
