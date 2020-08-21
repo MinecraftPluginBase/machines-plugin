@@ -33,3 +33,11 @@ Returning machine from configuration.
 MachineItem item = MachineItemManager.get(type);
 // Do your stuff
 ```
+
+## Contributors
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ViiictorXD">
+<img src="https://avatars3.githubusercontent.com/u/38568440?v=4" width="100px;" alt=""/><br /><sub><b>ViiictorXD</b></sub></a><br /><a href="https://github.com/ViiictorXD/AdvancedClans/commits?author=ViiictorXD" title="Code">💻</a></td>
+  </tr>
+</table>
